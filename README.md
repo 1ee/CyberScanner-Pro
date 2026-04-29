@@ -1,12 +1,4 @@
-<div align="center">
 
-# CyberScanner Pro
-
-A modular cybersecurity scanning framework for web applications
-
-</div>
-
----
 
 <div align="center">
 
