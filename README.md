@@ -38,8 +38,8 @@ CyberScanner-Pro
 
 INSTALLATION
 
-git clone https://github.com/USERNAME/REPO_NAME.git
-cd REPO_NAME
+git clone https://github.com/1ee/CyberScanner-Pro.git
+cd CyberScanner-Pro
 pip install -r requirements.txt
 
 ------------------------------------------------------------
