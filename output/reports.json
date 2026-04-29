@@ -1,0 +1,16 @@
+{
+  "target": "https://example.com",
+  "headers": {
+    "CSP": true,
+    "X-Frame": false,
+    "HSTS": true,
+    "XSS": false
+  },
+  "vulnerabilities": [
+    "Possible SQL Injection"
+  ],
+  "open_ports": [
+    80,
+    443
+  ]
+}
