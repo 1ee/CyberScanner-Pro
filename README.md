@@ -63,7 +63,8 @@ SAMPLE OUTPUT
     "HSTS": false
   },
   "vulnerabilities": [
-  "Possible SQL Injection"],
+    "Possible SQL Injection"
+  ],
   "open_ports": [80, 443]
 }
 
